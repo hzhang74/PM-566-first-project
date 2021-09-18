@@ -2,9 +2,7 @@
 title: "Lab04"
 author: "Haoran Zhang"
 date: "2021/9/17"
-output: 
-  html_document: 
-    keep_md: yes
+output=github_document
 ---
 
 ```r
